@@ -25,8 +25,6 @@ await client.profile.startProfile(profile.id, {
 const browserWSEndpoint = `ws://localhost:5050/playwright/${profile.id}`;
 const browser = await playwright.chromium.connectOverCDP(browserWSEndpoint);
 
-await setTimeout(30_000);
-
 const context = browser.contexts()[0];
 const page = await context.newPage();
 

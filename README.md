@@ -7,8 +7,13 @@ Here we publish some of the tests we run to validate the stealth capabilities of
 | Cloudflare Turnstile  | [📽️video](cloudflare-turnstile/cloudflare-turnstile.webm)  | [📄code](cloudflare-turnstile/cloudflare-turnstile.js)  |
 
 ## Synthetic fingerprint checkers
-| Test Name    | Video                                   | Code                                   |
-|--------------|-----------------------------------------|----------------------------------------|
-| Browserscan  | [📽️video](browserscan/browserscan.webm) | [📄code](browserscan/browserscan.js)  |
-| CreepJS      | [📽️video](creepjs/creepjs.webm)         | [📄code](creepjs/creepjs.js)          |
-| Pixelscan    | [📽️video](pixelscan/pixelscan.webm)     | [📄code](pixelscan/pixelscan.js)      |
+
+We believe that not all synthetic test sites are fair, however for full transparency we uploaded these as well.
+
+| Test Name      | Video                                       | Code                                       |
+|----------------|---------------------------------------------|--------------------------------------------|
+| Bot Sannysoft  | [📽️video](bot-sannysoft/bot-sannysoft.webm) | [📄code](bot-sannysoft/bot-sannysoft.js)  |
+| Brotector      | [📽️video](brotector/brotector.webm)         | [📄code](brotector/brotector.js)          |
+| Browserscan    | [📽️video](browserscan/browserscan.webm)     | [📄code](browserscan/browserscan.js)      |
+| CreepJS        | [📽️video](creepjs/creepjs.webm)             | [📄code](creepjs/creepjs.js)              |
+| Pixelscan      | [📽️video](pixelscan/pixelscan.webm)         | [📄code](pixelscan/pixelscan.js)          |
