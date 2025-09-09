@@ -4,7 +4,7 @@ Here we publish some of the tests we run to validate the stealth capabilities of
 ## Anti-bot systems
 | Test Name | Video | Code |
 |-----------|-------|------|
-| Cloudflare Turnstile  | [📽️video](https://github.com/kameleo-io/masking-audit/raw/refs/heads/master/cloudflare-turnstile/cloudflare-turnstile.webm)  | [📄code](cloudflare-turnstile/cloudflare-turnstile.js)  |
+| Cloudflare Turnstile  | [▶️video](https://github.com/kameleo-io/masking-audit/raw/refs/heads/master/cloudflare-turnstile/cloudflare-turnstile.webm)  | [📄code](cloudflare-turnstile/cloudflare-turnstile.js)  |
 
 ## Synthetic fingerprint checkers
 
